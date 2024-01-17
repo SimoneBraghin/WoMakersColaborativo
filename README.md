@@ -3,7 +3,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 
 ## Integrantes do Squad:
-- [Ana Carlina Fonseca Barreto]()  
+- [Ana Carolina Fonseca Barreto]()  
 - [Jane Souza]()
 - [Kássia Ellen da Silva Nascimento]()
 - [Renata Vitoria]()
