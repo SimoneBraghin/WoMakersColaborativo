@@ -15,14 +15,17 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Thaís Aparecida dos Santos]()
 
 ## 1. Exercícios *Conceitos Básicos de Python*:  
-    Branch: ConceitosPython_DorothyVaughan
+    Branch:  
+    ConceitosPython_DorothyVaughan
 ### Forma de organização:
 
 
 ## 2. Exercícios *Tomada de Decisão*:  
-    Branch TomadaDecisao_DorothyVaughan
+    Branch:  
+    TomadaDecisao_DorothyVaughan
 ### Forma de organização:
 
 ## 3. Exercícios *Tuplas, Listas e Dicionários*:  
-    Branch Armazenamentos__DorothyVaughan
+    Branch:  
+    Armazenamentos__DorothyVaughan
 ### Forma de organização:
