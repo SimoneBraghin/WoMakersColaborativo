@@ -24,7 +24,8 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. 
 
 #### 02.AnoNascimento: 
-1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.
+1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
+**Concluído**
 
 ## 2. Exercícios *Tomada de Decisão*:  
     Branch:  
