@@ -8,7 +8,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Kássia Ellen da Silva Nascimento]()
 - [Renata Vitoria]()
 - [Simone Braghin](https://github.com/SimoneBraghin)
-- [Clarice Sofia Henrique Soares]()
+- [Clarice Sofia Henrique Soares](https://github.com/claricesoares)
 - [Isadora Bagatini]()
 - [Janaina Solidade]()
 - [Maitê Haramoni Soares]()
