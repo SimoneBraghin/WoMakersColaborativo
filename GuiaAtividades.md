@@ -1,8 +1,7 @@
     *Arquivo Guia para conferência das orientações de execução dos exercícios*
     **Excluir este arquivo quando estiver tudo pronto para enviar às organizadoras do curso!**
 
-# Exercício 1:
-## Orientações para a entrega dos exercícios:
+# Orientações para a entrega dos exercícios:
 1. Os projetos devem ser publicadas em um repositório do github com todos os
 exercícios resolvidos e separados em pastas para que possa ficar fácil de
 identificar;
@@ -17,7 +16,7 @@ repositório do projeto na plataforma. Pedimos que todas do grupo informem o
 mesmo link com o read.me detalhado como citado acima;
 5. Compartilhem conhecimento e não tenham medo de perguntar!
 
-# Exercício 2: 
+# Exercício 1: 
 ## Exercícios Conceitos Básicos de Python
 1. Faça um Programa que peça três números, realize as principais
 operações soma, subtração, multiplicação, divisão
@@ -58,7 +57,7 @@ também e estou migrando de área.
 Lembrando que para o retorno vamos usar print com as variáveis
 criadas e este texto é somente um exemplo, utilizem a criatividade.
 
-# Exercício 3:
+# Exercício 2:
 ## Exercícios Tomada de Decisão
 1. Faça um Programa que peça dois números e imprima o maior deles.
 2. Faça um Programa que pergunte em que turno você estuda. Peça para
@@ -91,7 +90,7 @@ apenas números positivos sejam considerados na contagem e cálculos.
 10. Faça um programa que lê três números inteiros e os mostra em ordem
 crescente.
 
-# Exercício 4: 
+# Exercício 3: 
 ## Exercícios Tuplas, Listas e Dicionários
 1. Utilizando listas faça um programa que faça 5 perguntas para uma
 pessoa sobre um crime.
@@ -121,3 +120,41 @@ em seguida mostre o nome do usuário de trás para frente
 utilizando somente letras maiúsculas. Dica: lembre−se que ao
 informar o nome o usuário pode digitar letras maiúsculas ou
 minúsculas.
+
+# Exercício 4:
+## Exercícios Funções e Extras de Python
+1. Faça um programa, com uma função que necessite de três
+argumentos, e que forneça a soma desses três argumentos.
+2. Reverso do número. Faça uma função que retorne o reverso de um
+número inteiro informado. Por exemplo: 127 -> 721.
+3. Escreva um script que pergunta ao usuário se ele deseja converter
+uma temperatura de grau Celsius para Fahrenheit ou vice-versa. Para
+cada opção, crie uma função.
+Plus: Crie uma terceira, que é um menu para o usuário escolher a opção
+desejada, onde esse menu chama a função de conversão correta.
+4. Crie um programa que leia quanto dinheiro uma pessoa tem na
+carteira, e calcule quanto poderia comprar de cada moeda estrangeira.
+Considere a tabela de conversão abaixo:
+Dólar Americano: R$ 4,91
+Peso Argentino: R$ 0,02
+Dólar Australiano: R$ 3,18
+Dólar Canadense: R$ 3,64
+Franco Suiço: R$ 0,42
+Euro: R$ 5,36
+Libra esterlina: R$ 6,21
+5. Crie uma função chamada contar_vogais que recebe uma string
+como parâmetro. Implemente a lógica para contar o número de vogais
+na string e retorne o total de vogais. Solicite ao usuário para inserir uma
+frase e utilize a função para contar as vogais.
+6. Vamos construir um jogo de forca. O programa escolherá
+aleatoriamente uma palavra secreta de uma lista predefinida. A palavra
+secreta será representada por espaços em branco, um para cada letra
+da palavra. O jogador terá um número limitado de 6 tentativas. Em cada
+tentativa, o jogador pode fornecer uma letra. Se a letra estiver presente
+na palavra secreta, ela será revelada nas posições correspondentes. Se
+a letra não estiver na palavra, uma mensagem de erro deverá ser
+informada. Após um número máximo de erros, o jogador perde. O jogo
+continua até que o jogador adivinhe a palavra ou exceda o número
+máximo de tentativas.
+Dica: Você precisará importar uma biblioteca para resolver esse
+exercício

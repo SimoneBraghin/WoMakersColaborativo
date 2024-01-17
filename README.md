@@ -35,3 +35,9 @@ Repositório colaborativo do Squad Dorothy Vaughan
     Branch:  
     Armazenamentos__DorothyVaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
+
+
+## 4. Exercícios *Exercícios Funções e Extras de Python*:  
+    Branch:  
+    FuncoesExtras_DorothyVaughan
+### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
