@@ -49,6 +49,12 @@ Repositório colaborativo do Squad Dorothy Vaughan
     Branch:
     TomadaDecisao_DorothyVaughan
 
+#### 04. Classificação do Aluno:
+
+1. CarolinaSanches construi o programa com estrutura condicional composta para classificar se o aluno foi reprovado ou aprovado.
+
+**Concluído**
+
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 
 ## 3. Exercícios _Tuplas, Listas e Dicionários_:
