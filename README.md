@@ -35,3 +35,9 @@ Repositório colaborativo do Squad Dorothy Vaughan
     Branch:  
     Armazenamentos__DorothyVaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
+
+#### 01.Detetive:
+1. SimoneBraghin realizou a construção do código.
+2. SimoneBraghin concluiu o código.
+3. XXXXXX revisou o código e fez alterações a b c
+4. YYYYYY fez o merge das versões do código
