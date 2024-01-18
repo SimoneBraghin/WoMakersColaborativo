@@ -26,12 +26,19 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 01.OperacoesAritmetricas:
 
 1. SimoneBraghin adicionou as primeiras linhas de código contendo estrutura de repetição (while), match case e try/except a cada case selecionado.
-2.
 
 #### 02.AnoNascimento:
 
 1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
    **Concluído**
+
+#### 07. Calculo do IMC:
+
+1. CarolinaSanches
+
+#### 08. Calculo Salário :
+
+1. CarolinaSanches
 
 ## 2. Exercícios _Tomada de Decisão_:
 
