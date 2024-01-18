@@ -4,7 +4,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 ## Integrantes do Squad:
 - [Ana Carolina Fonseca Barreto]()  
-- [Jane Souza]()
+- [Jane Souza](https://github.com/janessf)
 - [Kássia Ellen da Silva Nascimento]()
 - [Renata Vitoria]()
 - [Simone Braghin](https://github.com/SimoneBraghin)
