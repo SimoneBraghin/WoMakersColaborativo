@@ -1,9 +1,10 @@
 # WoMakersColaborativo
+
 Repositório colaborativo do Squad Dorothy Vaughan
 
-
 ## Integrantes do Squad:
-- [Ana Carlina Fonseca Barreto]()  
+
+- [Ana Carlina Fonseca Barreto]()
 - [Jane Souza]()
 - [Kássia Ellen da Silva Nascimento]()
 - [Renata Vitoria]()
@@ -13,19 +14,25 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Janaina Solidade]()
 - [Maitê Haramoni Soares]()
 - [Thaís Aparecida dos Santos]()
+- [Maria Carolina de J. de Moraes](https://github.com/CarolinaSanches24)
 
-## 1. Exercícios *Conceitos Básicos de Python*:  
-    Branch:  
+## 1. Exercícios _Conceitos Básicos de Python_:
+
+    Branch:
     ConceitosPython_DorothyVaughan
+
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 
+## 2. Exercícios _Tomada de Decisão_:
 
-## 2. Exercícios *Tomada de Decisão*:  
-    Branch:  
+    Branch:
     TomadaDecisao_DorothyVaughan
+
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 
-## 3. Exercícios *Tuplas, Listas e Dicionários*:  
-    Branch:  
+## 3. Exercícios _Tuplas, Listas e Dicionários_:
+
+    Branch:
     Armazenamentos__DorothyVaughan
+
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
