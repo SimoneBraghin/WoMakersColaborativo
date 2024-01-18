@@ -11,7 +11,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Clarice Sofia Henrique Soares](https://github.com/claricesoares)
 - [Isadora Bagatini]()
 - [Janaina Solidade]()
-- [Maitê Haramoni Soares]()
+- [Maitê Haramoni Soares](https://github.com/maiharamoni)
 - [Thaís Aparecida dos Santos]()
 - [Maria Carolina de J. de Moraes]()
 
