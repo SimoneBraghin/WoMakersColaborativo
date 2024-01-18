@@ -3,7 +3,8 @@
 Repositório colaborativo do Squad Dorothy Vaughan
 
 ## Integrantes do Squad:
-- [Ana Carolina Fonseca Barreto]()  
+
+- [Ana Carolina Fonseca Barreto]()
 - [Jane Souza](https://github.com/janessf)
 - [Kássia Ellen da Silva Nascimento]()
 - [Renata Vitoria]()
@@ -33,11 +34,15 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 #### 07. Calculo do IMC:
 
-1. CarolinaSanches
+1. CarolinaSanches construi o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
+
+**Concluído**
 
 #### 08. Calculo Salário :
 
-1. CarolinaSanches
+1. CarolinaSanches construi o programa para cálcular o salario do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei operador aritmetico multiplicação e também formatted string literal.
+
+**Concluído**
 
 ## 2. Exercícios _Tomada de Decisão_:
 
