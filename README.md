@@ -14,30 +14,6 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Thaís Aparecida dos Santos]()
 - [Maria Carolina de J. de Moraes](https://github.com/CarolinaSanches24)
 
-## 1. Exercícios _Conceitos Básicos de Python_:
-
-    Branch:
-    ConceitosPython_DorothyVaughan
-
-### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
-
-#### 01.OperacoesAritmetricas:
-1. SimoneBraghin adicionou as primeiras linhas de código contendo estrutura de repetição (while), match case e try/except a cada case selecionado.
-**Concluído**
-
-#### 02.AnoNascimento:
-1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
-**Concluído**
-
-#### 07. Calculo do IMC:
-1. CarolinaSanches construi o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
-**Concluído**
-
-#### 08. Calculo Salário :
-
-1. CarolinaSanches construi o programa para cálcular o salario do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei operador aritmetico multiplicação e também formatted string literal.
-**Concluído**
-
 ## 2. Exercícios *Tomada de Decisão*:  
     Branch:  
     TomadaDecisao_DorothyVaughan
