@@ -5,8 +5,15 @@ Repositório colaborativo do Squad Dorothy Vaughan
     Branch:  
     TomadaDecisao_DorothyVaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
+
 #### 01.
-#### 02.
+
+#### 02. Turno de Estudo
+1. MaiteHaramoniSoares construiu o programa com estrutural com condição enquanto para obter a informação correta do usuário.
+2. MaiteHaramoniSoares finalizou a estrutura com condições if, elif e else e break para quebra do while.
+3. MaiteHaramoniSoares marcou como concluído.
+4. XXXX realizou a revisão
+
 #### 03.
 
 #### 04. Classificação do Aluno:
