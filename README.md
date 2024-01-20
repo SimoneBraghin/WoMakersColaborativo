@@ -17,7 +17,3 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 04.
 #### 05.
 #### 06.
-#### 07. 
-#### 08.
-#### 09.
-#### 10.
