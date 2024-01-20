@@ -1,7 +1,6 @@
 # WoMakersColaborativo
 Repositório colaborativo do Squad Dorothy Vaughan
 
-
 ## Integrantes do Squad:
 - [Ana Carlina Fonseca Barreto]()  
 - [Jane Souza]()
@@ -28,16 +27,6 @@ Repositório colaborativo do Squad Dorothy Vaughan
 1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
 **Concluído**
 2. 
-
-## 2. Exercícios *Tomada de Decisão*:  
-    Branch:  
-    TomadaDecisao_DorothyVaughan
-### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
-#### 05. ClassificacaoTriangulos:
-1. ThaisAp10 fez o projeto na íntegra, solicitou a revisão (pull request)  
-**Concluído**
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
 
 ## 3. Exercícios *Tuplas, Listas e Dicionários*:  
     Branch:  
