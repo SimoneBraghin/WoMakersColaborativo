@@ -34,9 +34,10 @@ Repositório colaborativo do Squad Dorothy Vaughan
     TomadaDecisao_DorothyVaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 #### 05. ClassificacaoTriangulos:
-1. ThaisAp10 fez o projeto na íntegra, solicitou a revisão (pull request)
+1. ThaisAp10 fez o projeto na íntegra, solicitou a revisão (pull request)  
 **Concluído**
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+**Finalizado**
 
 ## 3. Exercícios *Tuplas, Listas e Dicionários*:  
     Branch:  
