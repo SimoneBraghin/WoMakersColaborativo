@@ -42,4 +42,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 #### 09.
 
-#### 10.
+#### 10. Mensagem Amigável
+1. MaiteHaramoniSoares construiu a mensagem com as 4 variáveis solicitadas e a mensagem com tom amigável sobre gosto musical e finalizou com a instrução de print da mensagem com as variáveis.
+2. MaiteHaramoniSoares concliu o exercício
+3. XXXXX Revisou o código.
