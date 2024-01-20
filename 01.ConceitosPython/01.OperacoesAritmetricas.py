@@ -1,9 +1,8 @@
 """INSTRUÇÕES:
-1. Faça um Programa que peça três números, realize as principais
+1. Faça um Programa que peça dois números, realize as principais
 operações soma, subtração, multiplicação, divisão
 """
 
-# Não entendi porque pedem 3 números... Vamos pensar juntas?
 
 print("=========Calculadora iniciada!=========")
 
