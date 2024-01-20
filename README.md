@@ -14,24 +14,31 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 02. Ano Nascimento:
 1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
 2. SimoneBraghin concluiu o código
-3. XXXXX Revisou código
+3. XXXXX revisou código
 
 #### 03.
 
 #### 04.
 
 #### 05. Salário liquido:
-1. Anafbarreto construiu sistema para cálculo de salario liquido com base no desconto da aliquota de imposto de renda.
+1. Anafbarreto construiu sistema para cálculo de salário líquido com base no desconto da alíquota de imposto de renda.
 2. Anafbarreto concluiu o código
-#### 06.
+3. XXXXX revisou código
+
+#### 06. Tempo de viagem:
+1. Anafbarreto desenvolveu sistema de comparação de meios de locomoção com base no tempo por deslocamento.
+2. Anafbarreto concluiu o código
+3. XXXXX revisou código
 
 #### 07. Cálculo do IMC:
-1. CarolinaSanches construi o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
+1. CarolinaSanches construiu o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
 2. CarolinaSanches concluiu o exercício
+3. XXXXX revisou código
 
 #### 08. Cálculo Salário :
-1. CarolinaSanches construi o programa para cálcular o salario do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei operador aritmetico multiplicação e também formatted string literal.
+1. CarolinaSanches construiu o programa para cálcular o salário do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo, utilizei operador aritmetico multiplicação e também formatted string literal.
 2. CarolinaSanches concluiu o exercício
+3. Anafbarreto revisou código
 
 #### 09.
 
