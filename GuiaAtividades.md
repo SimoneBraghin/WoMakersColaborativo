@@ -17,7 +17,7 @@ mesmo link com o read.me detalhado como citado acima;
 5. Compartilhem conhecimento e não tenham medo de perguntar!
 
 # Exercício 2:
-## Exercícios Tomada de Decisão:
+## Exercícios Tomada de Decisão
 1. Faça um Programa que peça dois números e imprima o maior deles.
 2. Faça um Programa que pergunte em que turno você estuda. Peça para
 digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom
