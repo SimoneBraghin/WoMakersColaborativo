@@ -16,4 +16,6 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 04.
 1. Clarice Soares realizou o exercício na íntegra
 #### 05.
-#### 06.
+#### 06. JogoDeForca
+1. Realizado pela JaneSSF
+2. Revisado por SimoneBraghin
