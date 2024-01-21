@@ -12,8 +12,17 @@ Repositório colaborativo do Squad Dorothy Vaughan
 3. YYYYYY fez o merge das versões do código.
 
 #### 02. 
-#### 03.
-#### 04.
+
+#### 03. CarrinhoCompras
+1. IsahBag realizou a construção do código e concluiu o código.
+2. XXXXXX revisou o código e fez alterações a b c.
+3. YYYYYY fez o merge das versões do código.
+
+#### 04. DicionarioContatos
+1. IsahBag realizou a construção do código e concluiu o código.
+2. XXXXXX revisou o código e fez alterações a b c.
+3. YYYYYY fez o merge das versões do código.
+
 #### 05. TuplasConcat
 1. SimoneBraghin realizou a construção do código e concluiu o código.
 2. XXXXXX revisou o código e fez alterações a b c.
