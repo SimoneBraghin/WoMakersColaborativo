@@ -57,10 +57,10 @@ while interrogatorio == True:
         if trabalhouComVitima not in [1,0]:
             print("Essa opção não existe.\nFavor responder 1 para Sim e 0 para Não")
             continue
-        else:
-            interrogatorio = False
+        interrogatorio = False
     except ValueError:
         print("Você não está levando este interrogatório a sério! Se não responder corretamente iremos considerá-lo Cúmplice do crime!\n")
+
 
 perguntas = [telefonouVitima, esteveLocalCrime, morarProximoVitima, dividaAtiva, trabalhouComVitima]
 conclusaoSherlockHomes = classificador(telefonouVitima, esteveLocalCrime, morarProximoVitima, dividaAtiva, trabalhouComVitima)
