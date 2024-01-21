@@ -30,10 +30,10 @@ Repositório colaborativo do Squad Dorothy Vaughan
 1. ThaisAp10 fez o projeto na íntegra
 2. TahisAP10 concluiu exercício e solicitou a revisão (pull request)  
 3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-<<<<<<< HEAD
 
 
 #### 06.
+
 #### 07. Identificando idades
 1. Anafbarreto contruiu o projeto usando if para classificar as idades como criança, adolescente e adulto.
 2. 
@@ -41,21 +41,13 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 08. Maior numero de uma lista
 1. Anafbarreto construiu o codigo 
 
-#### 09.
-
-#### 10. Ordem crescente
-1. Anafbarreto construiu o codigo 
-=======
-**Finalizado**
-
-#### 06.
-#### 07. 
-#### 08.
-
 #### 09. ParImpar:
 1. Clarice fez e concluiu o exercício
 2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 **Finalizado**
 
-#### 10.
->>>>>>> 2c9d343af2712280735cd6898e65239ab8fa6cfc
+#### 10. Ordem crescente
+1. Anafbarreto construiu o codigo 
+2. 
+
+
