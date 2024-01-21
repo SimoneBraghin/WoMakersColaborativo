@@ -12,8 +12,13 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 02. ReversoDoNumero
 1. Simone Braghin realizou na íntegra o Exercício 2.
 
-#### 03.
+#### 03. ConversaoTemperatura
+1. IsahBag resolveu o exercício na íntegra
+
 #### 04.
 1. Clarice Soares realizou o exercício na íntegra
-#### 05.
+
+#### 05. ContarVogais
+1. IsahBag resolveu o exercício na íntegra
+
 #### 06.
