@@ -9,7 +9,9 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 01.
 1. Simone Braghin realizou o exercício na íntegra
 
-#### 02. 
+#### 02. ReversoDoNumero
+1. Simone Braghin realizou na íntegra o Exercício 2.
+
 #### 03.
 #### 04.
 1. Clarice Soares realizou o exercício na íntegra
