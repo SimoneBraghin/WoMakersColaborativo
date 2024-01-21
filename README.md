@@ -35,11 +35,12 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 06.
 
 #### 07. Identificando idades
-1. Anafbarreto contruiu o projeto usando if para classificar as idades como criança, adolescente e adulto.
-2. 
+1. Anafbarreto contruiu o projeto utilizando if para classificar as faixas etarias como criança, adolescente, adulto e idoso.
+2. Anafbarreto concluiu o programa
 
 #### 08. Maior numero de uma lista
-1. Anafbarreto construiu o codigo 
+1. Anafbarreto construiu o codigo utilizando uma lista e a funcão max para retornar o maior valor.
+2. Anafbarreto concluiu o programa
 
 #### 09. ParImpar:
 1. Clarice fez e concluiu o exercício

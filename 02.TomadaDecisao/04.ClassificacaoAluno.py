@@ -7,13 +7,13 @@ a pontuação for maior ou igual a 7, o aluno é aprovado; caso contrário, é
 reprovado.
 
 '''
-pontuacao = float(input("Digite uma nota de 0 a 10: "));
-situacao = '';
+pontuacao = float(input("Digite uma nota de 0 a 10: "))
+situacao = ''
 
 if pontuacao >= 7:
-    situacao = 'aprovado';
+    situacao = 'aprovado'
 else:
-    situacao ='reprovado';
+    situacao ='reprovado'
     
-print(f'O aluno foi {situacao}');
+print(f'O aluno foi {situacao}')
     
