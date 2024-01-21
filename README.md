@@ -31,24 +31,25 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. TahisAP10 concluiu exercício e solicitou a revisão (pull request)  
 3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
-
 #### 06.
 
 #### 07. Identificando idades
 1. Anafbarreto contruiu o projeto utilizando if para classificar as faixas etarias como criança, adolescente, adulto e idoso.
 2. Anafbarreto concluiu o programa
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 08. Maior numero de uma lista
 1. Anafbarreto construiu o codigo utilizando uma lista e a função max para retornar o maior valor.
 2. Anafbarreto concluiu o programa
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 09. ParImpar:
 1. Clarice fez e concluiu o exercício
 2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
 
 #### 10. Ordem crescente
 1. Anafbarreto construiu o codigo com uma lista e a função sorted para ordenar.
 2. Anafbarreto concluiu o programa
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 
