@@ -16,11 +16,18 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 05. ClassificacaoTriangulos:
 1. ThaisAp10 fez o projeto na íntegra
 2. TahisAP10 concluiu exercício e solicitou a revisão (pull request)  
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
+3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+
 
 #### 06.
-#### 07. 
-#### 08.
+#### 07. Identificando idades
+1. Anafbarreto contruiu o projeto usando if para classificar as idades como criança, adolescente e adulto.
+2. 
+
+#### 08. Maior numero de uma lista
+1. Anafbarreto construiu o codigo 
+
 #### 09.
-#### 10.
+
+#### 10. Ordem crescente
+1. Anafbarreto construiu o codigo 
