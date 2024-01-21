@@ -7,8 +7,11 @@ Repositório colaborativo do Squad Dorothy Vaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 
 #### 01.
+1. Simone Braghin realizou o exercício na íntegra
+
 #### 02. 
 #### 03.
 #### 04.
+1. Clarice Soares realizou o exercício na íntegra
 #### 05.
 #### 06.
