@@ -26,7 +26,7 @@ O destino aguarda suas respostas neste intrigante jogo de investigação.""")
 print("\n-----VAMOS COMEÇAR O SEU INTERROGATÓRIO!!!-----\n")
 
 def classificador(telefonouVitima, esteveLocalCrime, morarProximoVitima, dividaAtiva, trabalhouComVitima):
-    classificacaoSuspeito = ["Inocente",'Suspeito','Suspeito', "Cúmplice", "Cúmplice", "o Assassino"]
+    classificacaoSuspeito = ["Inocente",'Inocente','Suspeito', "Cúmplice", "Cúmplice", "o Assassino"]
     resultado = telefonouVitima + esteveLocalCrime + morarProximoVitima + dividaAtiva + trabalhouComVitima
     
     return print(f"Sherlock Holmes deduziu que você é {classificacaoSuspeito[resultado]}")
