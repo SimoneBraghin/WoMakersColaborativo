@@ -39,7 +39,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. Anafbarreto concluiu o programa
 
 #### 08. Maior numero de uma lista
-1. Anafbarreto construiu o codigo utilizando uma lista e a funcão max para retornar o maior valor.
+1. Anafbarreto construiu o codigo utilizando uma lista e a função max para retornar o maior valor.
 2. Anafbarreto concluiu o programa
 
 #### 09. ParImpar:
@@ -48,7 +48,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 **Finalizado**
 
 #### 10. Ordem crescente
-1. Anafbarreto construiu o codigo 
-2. 
+1. Anafbarreto construiu o codigo com uma lista e a função sorted para ordenar.
+2. Anafbarreto concluiu o programa
 
 
