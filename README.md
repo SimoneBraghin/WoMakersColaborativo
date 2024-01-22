@@ -16,33 +16,39 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. SimoneBraghin concluiu o código
 3. XXXXX revisou código
 
-#### 03.
+#### 03. Transformar Quilometros:
+1. Janessf realizou o código
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
-#### 04.
+#### 04. MediaConsumoCombustivel:
+1. Janessf realizou o código
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 05. Salário liquido:
 1. Anafbarreto construiu sistema para cálculo de salário líquido com base no desconto da alíquota de imposto de renda.
 2. Anafbarreto concluiu o código
-3. XXXXX revisou código
+3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 06. Tempo de viagem:
 1. Anafbarreto desenvolveu sistema de comparação de meios de locomoção com base no tempo por deslocamento.
 2. Anafbarreto concluiu o código
-3. XXXXX revisou código
+3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 07. Cálculo do IMC:
 1. CarolinaSanches construiu o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
 2. CarolinaSanches concluiu o exercício
-3. XXXXX revisou código
+3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 08. Cálculo Salário :
 1. CarolinaSanches construiu o programa para cálcular o salário do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo, utilizei operador aritmetico multiplicação e também formatted string literal.
 2. CarolinaSanches concluiu o exercício
 3. Anafbarreto revisou código
 
-#### 09.
+#### 09. ExercicioFisico
+1. Anafbarreto construiu o código.
+2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 10. Mensagem Amigável
 1. MaiteHaramoniSoares construiu a mensagem com as 4 variáveis solicitadas e a mensagem com tom amigável sobre gosto musical e finalizou com a instrução de print da mensagem com as variáveis.
 2. MaiteHaramoniSoares concliu o exercício
-3. XXXXX Revisou o código.
+3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
