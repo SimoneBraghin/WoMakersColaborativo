@@ -8,15 +8,14 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 #### 01. ImpressãoMaiorNumero:
 1. Jane Souza realizou e concluiu a atividade
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
+2. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
+
 
 #### 02. Turno de Estudo
 1. MaiteHaramoniSoares construiu o programa com estrutural com condição enquanto para obter a informação correta do usuário.
 2. MaiteHaramoniSoares finalizou a estrutura com condições if, elif e else e break para quebra do while.
 3. MaiteHaramoniSoares marcou como concluído.
-4. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
+4. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
 
 #### 03. Nota entre Zero e Dez:
 1. MaiteHaramoniSoares construiu o programa estrutural em condição enquanto para obter a informação correta do usuário.
@@ -27,13 +26,12 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 04. Classificação do Aluno:
 1. CarolinaSanches construi o programa com estrutura condicional composta para classificar se o aluno foi reprovado ou aprovado.
 2. CarolinaSanches marcou como Concluído
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-**Finalizado**
+3. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
 
 #### 05. ClassificacaoTriangulos:
 1. ThaisAp10 fez o projeto na íntegra
 2. TahisAP10 concluiu exercício e solicitou a revisão (pull request)  
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+3. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
 
 #### 06. Usuário Admin:
 1. MaiteHaramoniSoares construiu o programa que solicita o login e senha do usuário.
@@ -44,12 +42,12 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 07. Identificando idades
 1. Anafbarreto contruiu o projeto utilizando if para classificar as faixas etarias como criança, adolescente, adulto e idoso.
 2. Anafbarreto concluiu o programa
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+2. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
 
 #### 08. Maior numero de uma lista
 1. Anafbarreto construiu o codigo utilizando uma lista e a função max para retornar o maior valor.
 2. Anafbarreto concluiu o programa
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+3. SimoneBraghin fez a revisão; não pediu alterações e fechou issue. 
 
 #### 09. ParImpar:
 1. claricesoares construiu o código utilizando if e else e concluiu o exercício.
