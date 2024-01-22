@@ -22,7 +22,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 1. MaiteHaramoniSoares construiu o programa estrutural em condição enquanto para obter a informação correta do usuário.
 2. MaiteHaramoniSoares finalizou a estrutura com condições if, else, except caso o usuário digite uma letra e o break para quebra do while.
 3. MaiteHaramoniSoares marcou como concluído.
-4. xxxxxx fez a revisão;
+4. claricesoares fez a revisão, não pediu alterações e fechou o issue.
 
 #### 04. Classificação do Aluno:
 1. CarolinaSanches construi o programa com estrutura condicional composta para classificar se o aluno foi reprovado ou aprovado.
@@ -39,7 +39,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 1. MaiteHaramoniSoares construiu o programa que solicita o login e senha do usuário.
 2. MaiteHaramoniSoares finalizou a estrutura com condições if e else.
 3. MaiteHaramoniSoares marcou como concluído.
-4. xxxxxx fez a revisão;
+4. claricesoares fez a revisão, não pediu alterações e fechou o issue.
 
 #### 07. Identificando idades
 1. Anafbarreto contruiu o projeto utilizando if para classificar as faixas etarias como criança, adolescente, adulto e idoso.
@@ -52,7 +52,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 09. ParImpar:
-1. Clarice fez e concluiu o exercício
+1. claricesoares construiu o código utilizando if e else e concluiu o exercício.
 2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
 
 #### 10. Ordem crescente
