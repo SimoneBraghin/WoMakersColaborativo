@@ -11,7 +11,11 @@ Repositório colaborativo do Squad Dorothy Vaughan
 2. XXXXXX revisou o código e fez alterações a b c.
 3. YYYYYY fez o merge das versões do código.
 
-#### 02. 
+#### 02.
+1. ClariceSoares realizou a construção do código e concluiu o código.
+2. XXXXXX revisou o código e fez alterações a b c.
+3. YYYYYY fez o merge das versões do código.
+
 #### 03.
 #### 04.
 #### 05. TuplasConcat
