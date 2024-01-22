@@ -16,7 +16,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 #### 03.ConversaoTemperatura
 1. IsahBag realizou a construção do código e concluiu o código.
-2. XXXX revisou o código e fez alterações a b c.
+2. SimoneBraghin revisou o código.
 
 #### 04.CarteiraMoedas
 1. ClariceSoares realizou a construção do código e concluiu o código.
@@ -24,6 +24,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 
 #### 05.ContarVogais
 1. IsahBag realizou a construção do código e concluiu o código.
+2. SimoneBraghin revisou o código.
 
 #### 06. JogoForca
 1. Janessf realizou a construção do código e concluiu o código.
