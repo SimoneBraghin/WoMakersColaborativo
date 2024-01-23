@@ -4,8 +4,8 @@ Repositório colaborativo do Squad Dorothy Vaughan
 ## Integrantes do Squad:
 - [Ana Carolina Fonseca Barreto](https://github.com/anafbarreto)
 - [Jane Souza](https://github.com/janessf)
-- [Kássia Ellen da Silva Nascimento]()
-- [Renata Vitoria]()
+- [Kássia Ellen da Silva Nascimento]("não informado")
+- [Renata Vitoria]("não informado")
 - [Simone Braghin](https://github.com/SimoneBraghin)
 - [Clarice Sofia Henrique Soares](https://github.com/claricesoares)
 - [Isadora Bagatini](https://github.com/IsahBag)
@@ -27,7 +27,7 @@ Repositório colaborativo do Squad Dorothy Vaughan
 #### 02. Ano Nascimento:
 1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
 2. SimoneBraghin concluiu o código
-3. XXXXX revisou código
+3. AnafBarreto revisou código
 
 #### 03. Transformar Quilometros:
 1. Janessf realizou o código
