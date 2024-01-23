@@ -19,49 +19,28 @@ Repositório colaborativo do Squad Dorothy Vaughan
     ConceitosPython_DorothyVaughan
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
 
-#### 01. Operacoes Aritmetricas:
-1. SimoneBraghin adicionou as primeiras linhas de código contendo estrutura de repetição (while), match case e try/except a cada case selecionado.
-2. SimoneBraghin concluiu o código
-3. Anafbarreto revisou código
+#### 01.
 
-#### 02. Ano Nascimento:
-1. SimoneBraghin construiu estruturas das variáveis do exercício, cálculo pedido no enunciado e output (print) do resultado.  
-2. SimoneBraghin concluiu o código
-3. AnafBarreto revisou código
+#### 02. Turno de Estudo
+1. MaiteHaramoniSoares construiu o programa com estrutural com condição enquanto para obter a informação correta do usuário.
+2. MaiteHaramoniSoares finalizou a estrutura com condições if, elif e else e break para quebra do while.
+3. MaiteHaramoniSoares marcou como concluído.
+4. XXXX realizou a revisão
 
-#### 03. Transformar Quilometros:
-1. Janessf realizou o código
+#### 03.
+
+#### 04. Classificação do Aluno:
+1. CarolinaSanches construi o programa com estrutura condicional composta para classificar se o aluno foi reprovado ou aprovado.
+2. CarolinaSanches marcou como Concluído
+
+#### 05. ClassificacaoTriangulos:
+1. ThaisAp10 fez o projeto na íntegra
+2. TahisAP10 concluiu exercício e solicitou a revisão (pull request)  
 2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+**Finalizado**
 
-#### 04. MediaConsumoCombustivel:
-1. Janessf realizou o código
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-
-#### 05. Salário liquido:
-1. Anafbarreto construiu sistema para cálculo de salário líquido com base no desconto da alíquota de imposto de renda.
-2. Anafbarreto concluiu o código
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-
-#### 06. Tempo de viagem:
-1. Anafbarreto desenvolveu sistema de comparação de meios de locomoção com base no tempo por deslocamento.
-2. Anafbarreto concluiu o código
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-
-#### 07. Cálculo do IMC:
-1. CarolinaSanches construiu o programa para cálcular o IMC, recebendo os dados solicitados e exibindo na tela o resultado do cáculo , utilizei formatted string literal criando strings formatadas.
-2. CarolinaSanches concluiu o exercício
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-
-#### 08. Cálculo Salário :
-1. CarolinaSanches construiu o programa para cálcular o salário do referido mês, recebendo os dados solicitados e exibindo na tela o resultado do cáculo, utilizei operador aritmetico multiplicação e também formatted string literal.
-2. CarolinaSanches concluiu o exercício
-3. Anafbarreto revisou código
-
-#### 09. ExercicioFisico
-1. Anafbarreto construiu o código.
-2. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
-
-#### 10. Mensagem Amigável
-1. MaiteHaramoniSoares construiu a mensagem com as 4 variáveis solicitadas e a mensagem com tom amigável sobre gosto musical e finalizou com a instrução de print da mensagem com as variáveis.
-2. MaiteHaramoniSoares concliu o exercício
-3. SimoneBraghin fez a revisão; não pediu alterações e fez o merge.  
+#### 06.
+#### 07. 
+#### 08.
+#### 09.
+#### 10.
