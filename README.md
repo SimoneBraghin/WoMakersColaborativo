@@ -181,4 +181,4 @@ ___________________________________
 
 #### 06. JogoForca
 1. Janessf realizou a construção do código e concluiu o código.
-2. SimoneBraghin revisou o código e fez alterações a b c.
+2. SimoneBraghin revisou o código.
