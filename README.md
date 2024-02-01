@@ -188,6 +188,6 @@ ___________________________________
 2. SimoneBraghin revisou o código.
 
 ___________________________________
-Geração do Git: Simone Braghin 
-Geração, organização, gestão e conferência de Kanban, issues e pull requests  no Git e GitProject: Simone Braghin
-Finalização repositório (merges e cia): Simone Braghin 
+**Geração do Git**: Simone Braghin  
+**Geração, organização, gestão e conferência de Kanban, issues e pull requests  no Git e GitProject**: Simone Braghin  
+**Finalização repositório (merges e cia)**:  Simone Braghin 
