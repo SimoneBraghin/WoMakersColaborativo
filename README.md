@@ -1,11 +1,11 @@
 # WoMakersColaborativo
-Repositório colaborativo do Squad Dorothy Vaughan
+Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de Código do curso Bootcamp Back-End em Python e Django da WoMakersCode.
 
 ## Integrantes do Squad:
 - [Ana Carolina Fonseca Barreto](https://github.com/anafbarreto)
 - [Jane Souza](https://github.com/janessf)
-- [Kássia Ellen da Silva Nascimento]("não informado")
-- [Renata Vitoria]("não informado")
+- [Kássia Ellen da Silva Nascimento](não partipou)
+- [Renata Vitoria](não partipou)
 - [Simone Braghin](https://github.com/SimoneBraghin)
 - [Clarice Sofia Henrique Soares](https://github.com/claricesoares)
 - [Isadora Bagatini](https://github.com/IsahBag)
@@ -13,6 +13,10 @@ Repositório colaborativo do Squad Dorothy Vaughan
 - [Maitê Haramoni Soares](https://github.com/maiharamoni)
 - [Thaís Aparecida dos Santos](https://github.com/ThaisAp10)
 - [Maria Carolina de J. de Moraes](https://github.com/CarolinaSanches24)
+
+Total de 32 exercícios.  
+Nos comprometemos a realizar de 2 a 3 exercícios por pessoa. Contudo, na ausência de duas integrantes do squad e dificuldade de outras para realizar o total combinado (por motivos de força maior), algumas de nós fizeram mais de 3 exercícios.  
+Abaixo segue a lista de exercícios, o nome da integrante que desenvolveu o código e o nome daquela que revisou o código. 
 
 ___________________________________
 ## 1. Exercícios *Conceitos Básicos de Python*:  
